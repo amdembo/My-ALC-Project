@@ -1,5 +1,5 @@
-// Select color input
-// Select size input
+// Select color input 
+// Select size input 
 
 // When size is submitted by the user, call makeGrid()
 let height, width, color, reset;
