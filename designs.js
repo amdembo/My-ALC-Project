@@ -1,7 +1,7 @@
 // Select color input 
-// Select size input 
+// Select size input  
 
-// When size is submitted by the user, call makeGrid()
+// When size is submitted by the user, call makeGrid() 
 let height, width, color, reset;
 function makeGrid() {
 	$("#pixel_canvas").html("");
